@@ -2,7 +2,13 @@
 Linux多服务器多项目下，迅速切换目录小工具
 
 ####1.修改`.local.txt.example`为`local.txt`
+```
+mv .local.txt.example local.txt
+```
 ####2.修改`.servers.txt.example`为`servers.txt`
+```
+mv .servers.txt.example servers.txt
+```
 ####3.配置软链接(别名)，在`.bash_profile`中添加如下代码
 ```
 alias go="sh ~/work/ztcbin/towhere.sh"
