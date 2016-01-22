@@ -21,7 +21,7 @@ BEGIN {
 	#print "Please input your choice"
 }
 {
-	printf "%-2s)-->%-10s path: %-35s\n",FNR,$1,$2
+	printf "%-2s)-->%-15s path: %-35s\n",FNR,$1,$2
 }
 END {
     print "Q )-->Quit"
