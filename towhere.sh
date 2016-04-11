@@ -4,7 +4,7 @@
 saved=$(pwd)
 cd $(dirname $0)
 #base=$(pwd -P)
-base=/Users/guoshijie/work/ztcbin/
+base=/Users/shinc/work/go_anywhere/
 base=$base/servers.txt
 cd $saved
 function tips() {

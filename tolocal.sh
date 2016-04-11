@@ -14,7 +14,7 @@ function tips() {
 }
 
 tips
-local=~/work/ztcbin/local.txt
+local=~/work/go_anywhere/local.txt
 
 awk -F, '
 BEGIN {
