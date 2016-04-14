@@ -1,12 +1,4 @@
-dhb_mgmt,/Users/guoshijie/Documents/php/shinc_git/duobaohui_mgmt
-dbh_php,/Users/guoshijie/Documents/php/shinc_git/duobaohui_php
-dbh_web,/Users/guoshijie/Documents/php/shinc_git/duobaohui_web
-xhs_java,/Users/guoshijie/Documents/java/shinc_git/xhs_comment
-xhs_node,/Users/guoshijie/Documents/java/shinc_git/xhs_comment_node/
-xhs_task,/Users/guoshijie/Documents/java/shinc_git/xhs_comment_task/
-edu_web,/Users/guoshijie/Documents/php/shinc_git/eduonline_web/
-edu_node,/Users/guoshijie/Documents/java/shinc_git/cook
-edu_mgmt,/Users/guoshijie/Documents/java/shinc_git/eduonline_java
-weixin_php,/Users/guoshijie/Documents/php/my_git/weixin_php/
-foot_services,/Users/guoshijie/Documents/php/shinc_git/food-services/
-carrot,/Users/guoshijie/Documents/node/shinc_git/carrot
+xhs_data_web,/Users/shinc/work/node/shinc_git/xhs_data_web
+xhs_httpclient,/Users/shinc/work/java/shinc_git/xhs_comment/httpclient
+xhs_comment_node,/Users/shinc/work/node/shinc_git/xhs_comment_node/
+weixin_php,/Users/shinc/work/php/my_git/weixin_php/
