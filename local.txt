@@ -2,3 +2,4 @@ xhs_data_web,/Users/shinc/work/node/shinc_git/xhs_data_web
 xhs_httpclient,/Users/shinc/work/java/shinc_git/xhs_comment/httpclient
 xhs_comment_node,/Users/shinc/work/node/shinc_git/xhs_comment_node/
 weixin_php,/Users/shinc/work/php/my_git/weixin_php/
+news_cmt,/Users/shinc/work/php/shinc_git/news_cmt/
