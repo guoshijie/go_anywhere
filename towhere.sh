@@ -4,7 +4,7 @@
 saved=$(pwd)
 cd $(dirname $0)
 #base=$(pwd -P)
-base=/Users/shinc/work/go_anywhere/
+base=/cygdrive/d/work/go_anywhere
 base=$base/servers.txt
 cd $saved
 function tips() {
@@ -12,7 +12,7 @@ function tips() {
 ******************************
 *                            *
 *    connect to Anywhere!    *
-*        by ztc              *
+*       by Guo Shijie        *
 *                            *
 ******************************
 "
