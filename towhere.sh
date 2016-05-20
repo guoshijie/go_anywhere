@@ -1,10 +1,10 @@
 #/bin/bash
-#by zhangtaichao
+#by guoshijie
 #connect to Anywhere
 saved=$(pwd)
 cd $(dirname $0)
 #base=$(pwd -P)
-base=/Users/shinc/work/go_anywhere/
+base=~/work/go_anywhere
 base=$base/servers.txt
 cd $saved
 function tips() {
@@ -12,7 +12,7 @@ function tips() {
 ******************************
 *                            *
 *    connect to Anywhere!    *
-*          by gsj            *
+*       by Guo Shijie        *
 *                            *
 ******************************
 "
