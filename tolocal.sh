@@ -7,7 +7,7 @@ function tips() {
 		******************************
 		*                            *
 		*    Connect to Anywhere!    *
-		*        by ztc              *
+		*         by gsj             *
 		*                            *
 		******************************
 		"
