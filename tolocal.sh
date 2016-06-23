@@ -1,5 +1,4 @@
 #/bin/bash
-#by zhangtaichao
 #connect to Anywhere
 
 function tips() {
