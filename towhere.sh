@@ -41,6 +41,7 @@ if [[ "$input" = "q" || "$input" = "Q" ]];then
     printf "Bye~\n\n"
     exit
 fi
+
 host=`awk -F, -v input=$input '
 {
 	if(FNR==input) {
@@ -48,9 +49,26 @@ host=`awk -F, -v input=$input '
 	}
 }
 ' $base`
+
+remote_pwd=`awk -F, -v input=$input '
+{
+	if(FNR==input) {
+		print $3
+	}
+}
+' $base`
+echo $remote_pwd | pbcopy
+
 if test -z "$host" ;then
 echo "your select is error,Bye Bye!"
 exit
 fi
 echo "Your select is "$host
-$host
+
+expect -c "
+ spawn $host
+ expect \"password:\"
+ send \"${remote_pwd}\r\"
+ interact
+ expect eof
+"

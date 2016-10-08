@@ -1,9 +1,7 @@
-pc-sale-web,/Users/shinc/work/java/58ganji_svn/dev_idea/sale-web/
-pc-sale-bll,/Users/shinc/work/java/58ganji_svn/dev_idea/sale-bll/
-pc-buz-sale,/Users/shinc/work/java/58ganji_svn/dev_idea/com.bj58.qdyw.business.sale/
-activity,/Users/shinc/work/java/58ganji_svn/dev_idea/activity/
-activity-log,/opt/wf/logs/
-58ganji,/Users/shinc/work/java/58ganji_svn/dev_idea/
+58_shell,/Users/shinc/work/my_shells/58ganji_shells/
+58_code,/Users/shinc/work/java/58ganji_svn/dev_idea/
+58_doc,/Users/shinc/Documents/58ganji/
+ganji_code,/Users/shinc/work/php/ganji_svn/
 xhs_data_web,/Users/shinc/work/node/shinc_git/xhs_data_web
 xhs_httpclient,/Users/shinc/work/java/shinc_git/xhs_comment/httpclient
 xhs_comment_node,/Users/shinc/work/node/shinc_git/xhs_comment_node/
@@ -11,5 +9,6 @@ weixin_php,/Users/shinc/work/php/my_git/weixin_php/
 news_cmt,/Users/shinc/work/php/shinc_git/news_cmt/
 work,/Users/shinc/work/
 my_shell,/Users/shinc/work/my_shells/
+scf,/Users/shinc/work/java/58ganji_svn/scf/scf_v2/
 go_anywhere,/Users/shinc/work/go_anywhere/
 nginx,/usr/local/etc/nginx/
