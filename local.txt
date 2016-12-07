@@ -2,11 +2,9 @@
 58_code,/Users/shinc/work/java/58ganji_svn/dev_idea/
 58_doc,/Users/shinc/Documents/58ganji/
 ganji_code,/Users/shinc/work/php/ganji_svn/
+python,/Users/shinc/work/python/my_git/my_python/python-learning/
 xhs_data_web,/Users/shinc/work/node/shinc_git/xhs_data_web
-xhs_httpclient,/Users/shinc/work/java/shinc_git/xhs_comment/httpclient
-xhs_comment_node,/Users/shinc/work/node/shinc_git/xhs_comment_node/
 weixin_php,/Users/shinc/work/php/my_git/weixin_php/
-news_cmt,/Users/shinc/work/php/shinc_git/news_cmt/
 work,/Users/shinc/work/
 my_shell,/Users/shinc/work/my_shells/
 scf,/Users/shinc/work/java/58ganji_svn/scf/scf_v2/
