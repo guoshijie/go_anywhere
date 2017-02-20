@@ -1,6 +1,6 @@
 58_shell,/Users/shinc/work/my_shells/58ganji_shells/
 58_code,/Users/shinc/work/java/58ganji_svn/dev_idea/
-58_doc,/Users/shinc/Documents/58ganji/
+geek,/Users/shinc/work/node/my_git/geekguo/
 ganji_code,/Users/shinc/work/php/ganji_svn/
 python,/Users/shinc/work/python/my_git/my_python/python-learning/
 xhs_data_web,/Users/shinc/work/node/shinc_git/xhs_data_web
