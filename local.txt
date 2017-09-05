@@ -4,6 +4,7 @@ geek,/Users/shinc/work/node/my_git/geekguo/
 ganji_code,/Users/shinc/work/php/ganji_svn/
 python,/Users/shinc/work/python/my_git/my_python/python-learning/
 xhs_comment_node,/Users/shinc/work/node/shinc_git/xhs_comment_node/
+httpclient,/Users/shinc/work/java/shinc_git/xhs_comment/httpclient/
 xhs_data_web,/Users/shinc/work/node/shinc_git/xhs_data_web
 weixin_php,/Users/shinc/work/php/my_git/weixin_php/
 work,/Users/shinc/work/

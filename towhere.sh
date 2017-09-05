@@ -24,7 +24,7 @@ BEGIN {
 }
 {
 	if(NF==4) {
-        printf "%-2s)-->%-35s%-45s password:%-30s command:%-5s\n",FNR,$4,$2,$3,$1	
+        printf "%-2s)-->%-35s%-45s command:%-5s\n",FNR,$4,$2,$1	
 	}else if(NF==3) {
 		printf "%-2s)-->%-35scommand:%-5s %-45s \n",FNR,$3,$1,$2	
 	}else {
