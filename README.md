@@ -20,9 +20,3 @@ sh ~/.bash_profile
 ```
 ####5.修改`tolocal.sh`中line17为自己电脑路径
 ####6.修改`towhere.sh`中line7为自己电脑路径
-
-####7.命令效果图
-```
-$ go
-```
-![go_anywhere](http://7xslzg.com2.z0.glb.clouddn.com/go_anywhere.png)
