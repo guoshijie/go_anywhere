@@ -24,7 +24,7 @@ BEGIN {
 }
 {
 	if(NF==4) {
-        printf "%-2s)-->%-35s%-45s command:%-5s\n",FNR,$4,$2,$1	
+        printf "%-2s)-->%-35s%-45s \n",FNR,$4,$2	
 	}else if(NF==3) {
 		printf "%-2s)-->%-35scommand:%-5s %-45s \n",FNR,$3,$1,$2	
 	}else {
@@ -65,10 +65,16 @@ exit
 fi
 echo "Your select is "$host
 
+result=$(echo $host | grep "zzlogin" | wc -l)
 expect -c "
- spawn $host
- expect \"password:\"
- send \"${remote_pwd}\r\"
- interact
- expect eof
+    spawn $host
+    expect \"guoshijie@rig.zhuanos.com's password\"
+    send \"${remote_pwd}\r\"
+    interact
+    expect eof
 "
+
+#expect -c "
+    spawn $host
+    interact
+#"

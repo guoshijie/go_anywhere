@@ -1,5 +1,5 @@
+yp_code,/Users/shinc/work/java/youpin_git/
 58_shell,/Users/shinc/work/my_shells/zz_shells/
-yp_code,/Users/shinc/work/java/youpin/
 geek,/Users/shinc/work/node/my_git/geekguo/
 ganji_code,/Users/shinc/work/php/ganji_svn/
 python,/Users/shinc/work/python/my_git/my_python/python-learning/
