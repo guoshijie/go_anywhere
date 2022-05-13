@@ -57,7 +57,7 @@ remote_pwd=`awk -F, -v input=$input '
 	}
 }
 ' $base`
-#echo $remote_pwd | pbcopy
+echo $remote_pwd | pbcopy
 
 if test -z "$host" ;then
 echo "your select is error,Bye Bye!"
@@ -66,15 +66,15 @@ fi
 echo "Your select is "$host
 
 result=$(echo $host | grep "zzlogin" | wc -l)
-#expect -c "
-#    spawn $host
-#    expect \"guoshijie@rig.zhuanos.com's password\"
-#    send \"${remote_pwd}\r\"
-#    interact
-#    expect eof
-#"
-
 expect -c "
     spawn $host
+    expect \"guoshijie@rig.zhuanos.com's password\"
+    send \"${remote_pwd}\r\"
     interact
+    expect eof
 "
+
+#expect -c "
+    spawn $host
+    interact
+#"
