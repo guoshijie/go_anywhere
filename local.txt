@@ -6,9 +6,12 @@ recycling_git,/Users/shinc/work/java/trade_git_recycling/
 es,/Users/shinc/Documents/ITSoftWare/elasticsearch-9.0.3/bin
 ai_learning,/Users/shinc/work/ai/zz_claude_code_demo/docs/diagrams/
 kibana,/Users/shinc/Documents/ITSoftWare/kibana-6.3.1-darwin-x86_64/
+zz_shell,/Users/shinc/work/my_shells/zz_shells/
 my_shell,/Users/shinc/work/my_shells/
 go_anywhere,/Users/shinc/work/go_anywhere/
+car_test_kit,/Users/shinc/work/python/my_git/CarTestKit
 python,/Users/shinc/work/python/my_git/my_python/python-learning/
 weixin_php,/Users/shinc/work/php/my_git/weixin_php/
 work,/Users/shinc/work/
+scf,/Users/shinc/work/java/58ganji_svn/scf/scf_v2/
 nginx,/usr/local/etc/nginx/
